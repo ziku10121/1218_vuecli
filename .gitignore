@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 
+*.mov
 
 # local env files
 .env.local

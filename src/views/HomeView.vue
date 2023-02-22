@@ -18,6 +18,9 @@ export default {
     funA(){
       console.log('funA');
     }
+    funcE(){
+      console.log('funcE');
+    }
   },
 };
 </script>
