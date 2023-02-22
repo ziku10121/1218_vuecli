@@ -14,5 +14,10 @@ export default {
   components: {
     HelloWorld,
   },
+  methods: {
+    funA(){
+      console.log('funA');
+    }
+  },
 };
 </script>
